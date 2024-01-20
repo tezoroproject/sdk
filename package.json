@@ -4,6 +4,7 @@
   "main": "./lib/index.cjs",
   "module": "./lib/index.js",
   "types": "./lib/index.d.ts",
+  "version": "0.1.0",
   "exports": {
     ".": {
       "require": "./lib/index.cjs",
